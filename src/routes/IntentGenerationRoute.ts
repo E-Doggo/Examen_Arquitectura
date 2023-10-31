@@ -1,4 +1,3 @@
-import CardCharge from "../Application/CardChargeUseCase";
 import { CardPaymentCredit } from "../Infrastructure/CardPaymentRepoLogic";
 import IntentGeneration from "../Infrastructure/IntentGenerationRepoLogi";
 import PaymentController from "../Infrastructure/PaymentController";
